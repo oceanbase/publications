@@ -9,7 +9,8 @@
 6. [Jiamin Hou, Zhanhao Zhao, Wei Lu, Shiming Yang, Shuang Liu, Quanqing Xu, Chuanhui Yang, Xiaoyong Du. An Efficient and Scalable Graph Database with Built-in Temporal Support. The VLDB Journal 34 (4), 1-25.](https://link.springer.com/article/10.1007/s00778-025-00932-w)
 7. [阳振坤, 杨传辉, 韩富晟, 王国平, 杨志丰, 成肖君. OceanBase分布式关系数据库架构与技术. 计算机研究与发展. 61（3）：540−554，2024.](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202330835)
 8. [马旭阳, 周小凯, 郑浩宇, 崔斌, 徐泉清, 杨传辉, 晏潇, 江佳伟. 基于无服务器计算的多方数据库安全计算系统. 软件学报, 2025, 36(3): 1084–1106](https://www.jos.org.cn/jos/article/pdf/7283)
-9. [Zhongwei Yue, Jun-Peng Zhu, Peng Cai, Xuan Zhou, Quanqing Xu, Chuanhui Yang. ESTune: Bayesian Uncertainty-Guided Early Stopping for Database Configuration Tuning. Accepted by SIGMOD 2026.]
+9. [Zhongwei Yue, Shujian Peng, Peng Cai, Xuan Zhou, Huiqi Hu, Rong Zhang, Quanqing Xu, Chuanhui Yang. Functionality-Aware Database Tuning via Multi-Task Learning. 2024 IEEE 40th International Conference on Data Engineering (ICDE), 83-95.](https://www.computer.org/csdl/proceedings-article/icde/2024/171500a083/1YOu6HOxMcw)
+10. [Zhongwei Yue, Jun-Peng Zhu, Peng Cai, Xuan Zhou, Quanqing Xu, Chuanhui Yang. ESTune: Bayesian Uncertainty-Guided Early Stopping for Database Configuration Tuning. Accepted by SIGMOD 2026.]
 ### Storage Engine
 1. [Zixiang Yu, Guangyang Deng, Zhirong Shen, Qiangsheng Su, Ronglong Wu, Xiaoli Wang, Quanqing Xu, Chuanhui Yang, Zhifeng Bao. MetoHash: A Memory-Efficient and Traffic-Optimized Hashing Index on Hybrid PMem-DRAM Memories. Accepted in SC 2025. (Best Student Paper Nomination)]
 2. [Dong Pan, Xu Zhou, Lingwei Li, Quanqing Xu, Chuanhui Yang, Chenhao Ma, Kenli Li. Efficient Structural Clustering over Hypergraphs. In 2025 IEEE 41st International Conference on Data Engineering (ICDE), Hong Kong, 2025, pp. 3480-3493, doi: 10.1109/ICDE65448.2025.00260.](https://www.computer.org/csdl/proceedings-article/icde/2025/360300d480/26FZBLZdp1m)
