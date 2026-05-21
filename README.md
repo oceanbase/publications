@@ -77,7 +77,7 @@
 30. [Rui Fu, Yuncheng Wu, Quanqing Xu, Meihui Zhang. FEAST: A Communication-efficient Federated Feature Selection Framework for Relational Data. Proc. ACM Manag. Data1(1): 107:1-107:28 (2023).](https://zmeihui.github.io/files/sigmod23_feast.pdf)
 ### Security and Privacy
 1. [Qingfeng Xiang, YIngxia Shao, Chenglin Tian, Quanqing Xu, Qiyao Luo. DBRooter: An Efficient Causal Root Cause Analysis Framework for Distributed Databases. Accepted by DASFAA 2026.]
-2. [Qiyao Luo, Quanqing Xu, and Chuanhui Yang. Secure Multi-Party Sampling over Joins. PVLDB, 19(7): 1455 - 1468, 2026.](doi:10.14778/3801059.3801062)
+2. [Qiyao Luo, Quanqing Xu, and Chuanhui Yang. Secure Multi-Party Sampling over Joins. PVLDB, 19(7): 1455 - 1468, 2026.](https://www.vldb.org/pvldb/vol19/p1455-luo.pdf)
 3. [Qiyao Luo, Yilei Wang, Wei Dong, and Ke Yi. Secure Query Processing with Linear Online Cost. Accepted by ICDE 2026.]
 4. [Siyi Wang, Qiyao Luo, Yihua Hu, Lixu Wang, Quanqing Xu, Chuanhui Yang, Zhan Qin, Kui Ren, and WeiDong. 2026. Defense against Poisoning Attacks under Shuffle-DP. Proc. ACM Manag. Data 4, 1 (SIGMOD),Article 24 (February 2026), 27 pages.](https://doi.org/10.1145/3786638)
 5. [Xinghe Chen, Dajun Sun, Quanqing Xu, and Wei Dong. 2025. A General Framework for Per-record DifferentialPrivacy. Proc. ACM Manag. Data 3, 6 (SIGMOD), Article 287 (December 2025), 27 pages.](https://doi.org/10.1145/3769752)
