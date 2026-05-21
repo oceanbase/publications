@@ -76,7 +76,7 @@
 29. [Chaoyu Chen, Hang Yu, Zhichao Lei, Jianguo Li, Shaokang Ren, Tingkai Zhang, Silin Hu, Jianchao Wang, Wenhui Shi. BALANCE: Bayesian Linear Attribution for Root Cause Localization. Proc. ACM Manag. Data1(1): 95:1-95:26 (2023).](https://dl.acm.org/doi/10.1145/3588949)
 30. [Rui Fu, Yuncheng Wu, Quanqing Xu, Meihui Zhang. FEAST: A Communication-efficient Federated Feature Selection Framework for Relational Data. Proc. ACM Manag. Data1(1): 107:1-107:28 (2023).](https://zmeihui.github.io/files/sigmod23_feast.pdf)
 ### Security and Privacy
-1. [Qingfeng Xiang, YIngxia Shao, Chenglin Tian, Quanqing Xu, Qiyao Luo. DBRooter: An Efficient Causal Root Cause Analysis Framework for Distributed Databases. Accepted by DASFAA 2026.]
+1. [Qingfeng Xiang, YIngxia Shao, Chenglin Tian, Quanqing Xu, Qiyao Luo. DBRooter: An Efficient Causal Root Cause Analysis Framework for Distributed Databases. In International Conference on Database Systems for Advanced Applications, pp. 543-560. Singapore: Springer Nature Singapore, 2026.](https://link.springer.com/chapter/10.1007/978-981-92-0366-6_33)
 2. [Qiyao Luo, Quanqing Xu, and Chuanhui Yang. Secure Multi-Party Sampling over Joins. PVLDB, 19(7): 1455 - 1468, 2026.](https://www.vldb.org/pvldb/vol19/p1455-luo.pdf)
 3. [Qiyao Luo, Yilei Wang, Wei Dong, and Ke Yi. Secure Query Processing with Linear Online Cost. Accepted by ICDE 2026.]
 4. [Siyi Wang, Qiyao Luo, Yihua Hu, Lixu Wang, Quanqing Xu, Chuanhui Yang, Zhan Qin, Kui Ren, and WeiDong. 2026. Defense against Poisoning Attacks under Shuffle-DP. Proc. ACM Manag. Data 4, 1 (SIGMOD),Article 24 (February 2026), 27 pages.](https://doi.org/10.1145/3786638)
