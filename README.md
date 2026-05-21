@@ -47,8 +47,8 @@
 ### Data+AI
 1. [Jiuqi Wei, Quanqing Xu, Chuanhui Yang. The Virtuous Cycle: AI-Powered Vector Search and Vector Search-Augmented AI. Accepted by ICDE 2026.]
 2. [Daili Hua, Xizhi Wang, Bohan Zeng, Xinyi Huang, Hao Liang, Junbo Niu, Xinlong Chen, Quanqing Xu, Wentao Zhang. VABench: A Comprehensive Benchmark for Audio-Video Generation. Accepted by CVPR 2026. ]
-3. [Jiuqi Wei, Zhenyu Liao, Ruoyu Han, Quanqing Xu, Chuanhui Yang, Themis Palpanas. TaCo: Data-adaptive and Query-aware Subspace Collision for High-dimensional Approximate Nearest Neighbor Search. Accepted by SIGMOD 2026.]
-4. [Wei Zhou, Xuanhe Zhou, Qikang He, Guoliang Li, Bingsheng He, Quanqing Xu, Fan Wu. Automating Database-Native Function Code Synthesis with LLMs. Accepted by SIGMOD 2026.]
+3. [Jiuqi Wei, Zhenyu Liao, Ruoyu Han, Quanqing Xu, Chuanhui Yang, and Themis Palpanas. 2026. TaCo: Dataadaptive and Query-aware Subspace Collision for High-dimensional Approximate Nearest Neighbor Search. Proc. ACM Manag. Data 4, 3 (SIGMOD), Article 241 (June 2026), 28 pages.](https://doi.org/10.1145/3802118)
+4. [Wei Zhou, Xuanhe Zhou, Qikang He, Guoliang Li, Bingsheng He, Quanqing Xu, and FanWu. 2026. Automating Database-Native Function Code Synthesis with LLMs. Proc. ACM Manag. Data 4, 3 (SIGMOD), Article 141 (June 2026), 26 pages.](https://doi.org/10.1145/3802018)
 5. [Quanqing Xu, Chuanhui Yang, Feizhi Cai, Li Feng, Jiannan Ji, Zhifeng Yang,Guoping Wang, and Yi Zhang. 2026. PowerRAG: Building Smarter andMore Accurate RAG Systems with OceanBase’s Multi-modal Retrieval. InCompanion of the International Conference on Management of Data (SIGMODCompanion ’26), May 31-June 05, 2026, Bengaluru, India. ACM, New York,NY, USA, 4 pages.](https://doi.org/10.1145/3788853.3801589)
 6. [Kunyi Li, Sai Wu, Xiu Tang, Chang Yao, Songhao Bu, Quanqing Xu, Gang Chen. Debugging Engine Enhanced by Prior Knowledge: Can We Teach LLM How to Debug? Accepted by ACM International Conference on the Foundations of Software Engineering (FSE 2026).]
 7. [Jiuqi Wei, Quanqing Xu, Chuanhui Yang. The Virtuous Cycle: AI-Powered Vector Search and Vector Search-Augmented AI. Accepted by ICDE 2026.]
