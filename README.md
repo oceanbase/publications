@@ -1,7 +1,7 @@
 ## Literature
 
 ### Overall Architecture
-1. [Quanqing Xu, Mingqiang Zhuang, Chuanhui Yang, Quanwei Wan, Fusheng Han, Fanyu Kong, Hao Liu, Hu Xu, Junyu Ye. OceanBase Bacchus: a High-Performance and Scalable Cloud-Native Shared Storage Architecture for Multi-Cloud. Accepted by VLDB 2026.]
+1. [Quanqing Xu, Mingqiang Zhuang, Chuanhui Yang, Quanwei Wan, Fusheng Han, Fanyu Kong, Hao Liu, Hu Xu, Junyu Ye. OceanBase Bacchus: a High-Performance and Scalable Cloud-Native Shared Storage Architecture for Multi-Cloud. Accepted by PVLDB 2026.]
 2. [Rui Ding, Xiaochun Yang, Bin Wang, Quanqing Xu, and Chuanhui Yang. Storage-Centric Relation Design via High-Quality Approximate Functional Dependencies. PVLDB, 19(9): XXX-XXX, 2026.]
 3. [Quanqing Xu, Chuanhui Yang, Ruijie Li, Dongdong Xie, Hui Cao, Yi Xiao, Junquan Chen, Yanzuo Wang, Saitong Zhao, Fusheng Han. OceanBase Mercury: Building a Distributed Real-time Analytical Processing Database System. Accepted by ICDE 2026.] 
 4. [Zhenkun Yang, Chuanhui Yang, Fusheng Han, Mingqiang Zhuang, Bing Yang, Zhifeng Yang, Xiaojun Cheng, Yuzhong Zhao, Wenhui Shi, Huafeng Xi, Huang Yu, Bin Liu, Yi Pan, Boxue Yin, Junquan Chen, and Quanqing Xu. 2022. OceanBase: A 707 Million tpmC Distributed Relational Database System. PVLDB, 15(12): 3385 - 3397, 2022.](https://vldb.org/pvldb/vol15/p3385-xu.pdf)
@@ -22,7 +22,7 @@
 7. [Jiahui Yang, Fulin Nan, Zhirong Shen, Zhisheng Chen, Yuhui Cai, Dmitrii Kaplun, Xiaoli Wang, Quanqing Xu, Chuanhui Yang, and Jiwu Shu. TPRepair: Tree-Based Pipelined Repair in Clustered Storage Systems. ACM Transactions on Architecture and Code Optimization 22 (1), 1-25.](https://dl.acm.org/doi/10.1145/3705895)
 8. [Xiangyu Yao, Qiao Li, Kaihuan Lin, Xinbiao Gan, Jie Zhang, Congming Gao, Zhirong Shen, Quanqing Xu, Chuanhui Yang, Jason Xue. Extremely-Compressed SSDs with I/O Behavior Prediction. ACM Transactions on Storage, 20(4), pp.1-38.](https://dl.acm.org/doi/10.1145/3677044)
 ### Transaction Engine
-1. [Quanqing Xu, Chen Qian, Chuanhui Yang, Fanyu Kong, Guixiang Liu, Fusheng Han, Zixiang Zhai. A Tree-Structured Two-Phase Commit Framework for OceanBase: Optimizing Scalability and Consistency. Accepted by VLDB 2026.]
+1. [Quanqing Xu, Chen Qian, Chuanhui Yang, Fanyu Kong, Guixiang Liu, Fusheng Han, Zixiang Zhai. A Tree-Structured Two-Phase Commit Framework for OceanBase: Optimizing Scalability and Consistency. Accepted by PVLDB 2026.]
 2. [Hongyao Zhao, Wei Lu, Zhanhao Zhao, Yinhao Hong, QuanqingXu, Jinliang Xiao, Fusheng Han, Chuanhui Yang, Xiaoyong Du. An Efficient Two-Round Distributed Transaction Processing Approach over Heterogeneous Networks. The VLDB Journal 34 (4), 1-25.](https://link.springer.com/article/10.1007/s00778-025-00929-5)
 3. [Chenguang Fang, Chen Qian, Qi Yang, Zeyu Wang, Zhenkun Yang, Fanyu Kong, Quanqing Xu, Hui Cao, Fusheng Han, and Chuanhui Yang. 2025. MaLT: A Framework for Managing Large Transactions in OceanBase. In Companion of the 2025 International Conference on Management of Data (SIGMOD-Companion ’25), June 22–27, 2025, Berlin, Germany. ACM, New York, NY, USA, 13 pages. https://doi.org/10.1145/3722212.3724442.](https://doi.org/10.1145/3722212.3724442)
 4. [Daokun Hu, Quanqing Xu, and Chuanhui Yang. 2025. OLTP Engines on Modern Storage Architectures. In Companion of the 2025 International Conferenceon Management of Data (SIGMOD-Companion ’25), June 22–27, 2025,Berlin, Germany. ACM, New York, NY, USA, 8 pages. https://doi.org/10.1145/3722212.3725633.](https://doi.org/10.1145/3722212.3725633)
@@ -30,7 +30,7 @@
 6. [Zhenkun Yang, Chen Qian, Xuwang Teng, Fanyu Kong, Fusheng Han, Quanqing Xu. LCL: A Lock Chain Length-based Distributed Algorithm for Deadlock Detection and Resolution. IEEE 39th International Conference on Data Engineering (ICDE), 151-163, 2023.](https://ieeexplore.ieee.org/document/10184686)
 7. [Zhenkun Yang, Chen Qian, Xuwang Teng, Fanyu Kong, Fusheng Han, Quanqing Xu, Daokun Hu. LCL+: a Lock Chain Length-based Distributed Deadlock Detection and Resolution Service Built for OceanBase. ACM Trans. Comput. Syst., Vol. 43, No. 4, Article 15.](https://doi.org/10.1145/3768621)
 ### SQL Engine
-1. [Songsong Mo, Quanqing Xu, Xuchen Ding, Yue Zhao, Zhifeng Bao, Chuanhui Yang, Gao Cong. Towards Industrial-Scale Parametric Query Optimization. Accepted by VLDB 2026.]
+1. [Songsong Mo, Quanqing Xu, Xuchen Ding, Yue Zhao, Zhifeng Bao, Chuanhui Yang, Gao Cong. Towards Industrial-Scale Parametric Query Optimization. Accepted by PVLDB 2026.]
 2. [Jiuqi Wei, Xiaodong Lee, Botao Peng, Quanqing Xu, Chuanhui Yang, Themis Palpanas. PDET-LSH: Scalable In-Memory Indexing for High-Dimensional Approximate Nearest Neighbor Search with Quality Guarantees. IEEE TKDE Jun. 2026, pp. 3818-3834, vol. 38.](https://www.computer.org/csdl/journal/tk/5555/01/11455979/2f9bYTlU4bm)
 2. [Sijia Li, Peng Cai, Zhifan Zhang, Huiqi Hu, Rong Zhang, Xuan Zhou, Quanqing Xu, and Chuanhui Yang. 2025. APQO: An Adaptive Framework for Parametric Query Optimization. Proc. ACM Manag. Data 3, 6 (SIGMOD),Article 296 (December 2025), 25 pages.](https://doi.org/10.1145/3769761)
 3. [Xuhua Huang, Zirui Hu, Siyang Weng, Rong Zhang, Chengcheng Yang,Xuan Zhou, Weining Qian, Chuanhui Yang, and Quanqing Xu. 2025. A Query-Aware Enormous Database Generator For System Performance Evaluation.In Companion of the 2025 International Conference on Managementof Data (SIGMOD-Companion ’25), June 22–27, 2025, Berlin, Germany. ACM,New York, NY, USA, 4 pages.](https://doi.org/10.1145/3722212.3725076)
@@ -48,7 +48,7 @@
 6. [Zirui Hu, Rong Zhang, Chengcheng Yang, Xuan Zhou, Quanqing Xu, Chuanhui Yang. Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. In 2025 IEEE 41st International Conference on Data Engineering (ICDE), Hong Kong, 2025, pp. 4628-4631, doi: 10.1109/ICDE65448.2025.00369.](https://www.computer.org/csdl/proceedings-article/icde/2025/360300e628/26FZD0CCVji)
 7. [翁思扬, 俞融, 王清帅, 胡梓锐, 倪葎, 张蓉, 周烜, 周傲英, 徐泉清, 杨传辉, 刘维, 杨攀飞. HTAP 评测基准的评测能力综述. 软件学报, 2025, 36(1): 424–445.](https://www.jos.org.cn/jos/article/pdf/7225)
 ### Data+AI
-1. [Chenyang Zhang, Linjun Lu, Qingfeng Pan, Chen Xu, Xianzhong Cao, Quanqing Xu, Chuanhui Yang. IMLane: Composable Framework for Efficient AI Function Execution in Database Engine. Accepted by VLDB 2026.]
+1. [Chenyang Zhang, Linjun Lu, Qingfeng Pan, Chen Xu, Xianzhong Cao, Quanqing Xu, Chuanhui Yang. IMLane: Composable Framework for Efficient AI Function Execution in Database Engine. Accepted by PVLDB 2026.]
 2. [Jingwen Deng, Jihao Huang, Zhen Hao Wong, Hao Liang, Quanqing Xu, Bin CUI, Wentao Zhang. Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey. Accepted by ACL 2026.] 
 3. [Yaodong Su, Yixiang Fang, Yingli Zhou, Chuanhui Yang. Clue-RAG: Towards Accurate and Cost-Efficient Graph-based RAG via Multi-Partite Graph-based Index. Accepted by ICDE 2026.]
 4. [Jiuqi Wei, Quanqing Xu, Chuanhui Yang. The Virtuous Cycle: AI-Powered Vector Search and Vector Search-Augmented AI. Accepted by ICDE 2026.]
