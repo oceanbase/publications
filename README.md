@@ -50,7 +50,7 @@
 7. [翁思扬, 俞融, 王清帅, 胡梓锐, 倪葎, 张蓉, 周烜, 周傲英, 徐泉清, 杨传辉, 刘维, 杨攀飞. HTAP 评测基准的评测能力综述. 软件学报, 2025, 36(1): 424–445.](https://www.jos.org.cn/jos/article/pdf/7225)
 ### Data+AI
 1. [Chenyang Zhang, Linjun Lu, Qingfeng Pan, Chen Xu, Xianzhong Cao, Quanqing Xu, Chuanhui Yang. IMLane: Composable Framework for Efficient AI Function Execution in Database Engine. Accepted by PVLDB 2026.]
-2. [Jingwen Deng, Jihao Huang, Zhen Hao Wong, Hao Liang, Quanqing Xu, Bin CUI, Wentao Zhang. Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey. Accepted by ACL 2026.] 
+2. [Jingwen Deng, Jihao Huang, Zhen Hao Wong, Hao Liang, Quanqing Xu, Bin CUI, Wentao Zhang. Data-Centric Perspectives on Agentic Retrieval-Augmented Generation: A Survey. ACL 2026, pp. 1570-1588. 2026.](https://aclanthology.org/2026.findings-acl.78.pdf) 
 3. [Yaodong Su, Yixiang Fang, Yingli Zhou, Chuanhui Yang. Clue-RAG: Towards Accurate and Cost-Efficient Graph-based RAG via Multi-Partite Graph-based Index. Accepted by ICDE 2026.]
 4. [Jiuqi Wei, Quanqing Xu, Chuanhui Yang. The Virtuous Cycle: AI-Powered Vector Search and Vector Search-Augmented AI. Accepted by ICDE 2026.]
 5. [Daili Hua, Xizhi Wang, Bohan Zeng, Xinyi Huang, Hao Liang, Junbo Niu, Xinlong Chen, Quanqing Xu, Wentao Zhang. VABench: A Comprehensive Benchmark for Audio-Video Generation. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 23345-23355. 2026.](https://openaccess.thecvf.com/content/CVPR2026/papers/Hua_VABench_A_Comprehensive_Benchmark_for_Audio-Video_Generation_CVPR_2026_paper.pdf)
