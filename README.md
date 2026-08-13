@@ -2,7 +2,7 @@
 
 ### Overall Architecture
 1. [杨传辉, 邓光阳, 徐泉清, 等. 国产开源数据库的演进与启示：以 OceanBase为例[J]. 计算, 2026, 2(6): 42−50. DOI: 10.11991/cccf.202606007](https://cccf.hrbeu.edu.cn/article/doi/10.11991/cccf.202606007)
-2. [Quanqing Xu, Mingqiang Zhuang, Chuanhui Yang, Quanwei Wan, Fusheng Han, Fanyu Kong, Hao Liu, Hu Xu, Junyu Ye. OceanBase Bacchus: a High-Performance and Scalable Cloud-Native Shared Storage Architecture for Multi-Cloud. Accepted by PVLDB 2026.]
+2. [Quanqing Xu, Mingqiang Zhuang, Chuanhui Yang, Quanwei Wan, Fusheng Han, Fanyu Kong, Hao Liu, Hu Xu, and Junyu Ye. OceanBase Bacchus: A High-Performance and Scalable Cloud-Native Shared Storage Architecture for Multi-Cloud. PVLDB, 19(12): 4089 - 4102, 2026](doi:10.14778/3827998.3828018)
 3. [Rui Ding, Xiaochun Yang, Bin Wang, Quanqing Xu, and Chuanhui Yang. Storage-Centric Relation Design via High-Quality Approximate Functional Dependencies. PVLDB, 19(9): XXX-XXX, 2026.]
 4. [Quanqing Xu, Chuanhui Yang, Ruijie Li, Dongdong Xie, Hui Cao, Yi Xiao, Junquan Chen, Yanzuo Wang, Saitong Zhao, Fusheng Han. OceanBase Mercury: Building a Distributed Real-time Analytical Processing Database System. Accepted by ICDE 2026.] 
 5. [Zhenkun Yang, Chuanhui Yang, Fusheng Han, Mingqiang Zhuang, Bing Yang, Zhifeng Yang, Xiaojun Cheng, Yuzhong Zhao, Wenhui Shi, Huafeng Xi, Huang Yu, Bin Liu, Yi Pan, Boxue Yin, Junquan Chen, and Quanqing Xu. 2022. OceanBase: A 707 Million tpmC Distributed Relational Database System. PVLDB, 15(12): 3385 - 3397, 2022.](https://vldb.org/pvldb/vol15/p3385-xu.pdf)
