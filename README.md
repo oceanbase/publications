@@ -14,7 +14,7 @@
 11. [阳振坤, 杨传辉, 韩富晟, 王国平, 杨志丰, 成肖君. OceanBase分布式关系数据库架构与技术. 计算机研究与发展. 61（3）：540−554，2024.](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202330835)
 12. [马旭阳, 周小凯, 郑浩宇, 崔斌, 徐泉清, 杨传辉, 晏潇, 江佳伟. 基于无服务器计算的多方数据库安全计算系统. 软件学报, 2025, 36(3): 1084–1106](https://www.jos.org.cn/jos/article/pdf/7283)
 ### Storage Engine
-1. [Daokun Hu, Zhiwen Chen, Wenkui Che, Jianhua Sun, Hao Chen, Quanqing Xu, Chuanhui Yang, Gang Chen. Hemu: A Scalable In-Memory Key-Value Cache for Modern Storages. Accepted by SIGMOD 2027.]
+1. [Daokun Hu, Zhiwen Chen, Wenkui Che, Jianhua Sun, Hao Chen, Quanqing Xu, Chuanhui Yang, and Gang Chen. 2026. Hemu: A Scalable In-Memory Key-Value Cache for Modern Storages. Proc. ACM Manag. Data 4, 6 (SIGMOD), Article 355 (December 2026), 25 pages.](https://doi.org/10.1145/3856350) 
 2. [Zheng Li, Weiyan Wang, Ruiyuan Li, Chao Chen. Xianlei Long, Linjiang Zheng, Quanqing Xu, Chuanhui Yang. Falcon: GPU-Based Floating-point Adaptive Lossless Compression. Accepted by ICDE 2027. ]
 3. [Tao Kong, Hui Li, Yuxuan Zhao, Quanqing Xu, Liping Li, Qian Wang. PromTCS: An Efficient Two-Dimensional Metadata Management and Tailored Hybrid Storage Architecture for Performance Monitoring Time Series. Accepted by FAST 2027.](https://www.usenix.org/conference/fast27/presentation/kong)
 4. [Pinshan Cao, Peng Cai, Xuan Zhou, Jun-Peng Zhu, Kecheng Luo, Sijia Li, Quanqing Xu, Chuanhui Yang. Automatic Parameter Tuning for Compaction in LSM-Tree based Databases. Accepted by ICDE 2026.]
@@ -55,7 +55,7 @@
 ### Data+AI
 1. [Chunming Ma, Xujia Li, Quanqing Xu, Chuanhui Yang, Lei Chen. StreamPLAID: Efficient Incremental Indexing via Monotonic Radius Hierarchical Partitioning for Multi-Vector Retrieval. Accepted by PVLDB 2027.]
 2. [Xu Gao, Sai Wu, Xiu Tang, Chang Yao, Quanqing Xu, Chuanhui Yang, Gang Chen. DADO: a LLM-based Distribution-Aligned and Diversity-Optimized Data Generator. Accepted by TKDE 2026.](https://www.computer.org/csdl/journal/tk/5555/01/11701524/2kblZ7aXecU)
-3. [Naili Xing, Zhanhao Zhao, Peng Lu, Chuanhui Yang, Quanqing Xu, Beng Chin Ooi. NQO: Query Optimization as a Learnable Function. Accepted by SIGMOD 2027.]
+3. [Naili Xing, Zhanhao Zhao, Peng Lu, Chuanhui Yang, Quanqing Xu, and Beng Chin Ooi. 2026. NeurQO: Query Optimization as a Learnable Function. Proc. ACM Manag. Data 4, 6 (SIGMOD), Article 363 (December 2026), 27 pages.](https://doi.org/10.1145/3856358)
 4. [Ziyi Li, Angjun Lin, Yuhao Lin, Quanqing Xu, Ruixuan Zhang, Yuanyuan Zhu, Jiawei Jiang, Xiao Yan. TITAN: A High-Throughput Distributed System for Approximate Nearest Neighbor Search on Large-scale Datasets. Accepted by SIGMOD 2027.]
 5. [Shaojie Qiao, Daiyuan Zhang, Quanqing Xu, Nan Han, Qiyao Luo, Chuanhui Yang, Ruobing Zhao. C3-Predictor: An Efficient Framework for Performance Prediction of Concurrent Queries. Accepted by TKDE 2026.](https://ieeexplore.ieee.org/document/11673516)
 6. [Qiang Huang, Ke Liu, Liang Deng, Xiao Yan, Chuang Hu, Quanqing Xu, Wentao Zhang, and Jiawei Jiang. Retrofitting Temporal GNN Training with Decoder-Only Transformers on Large-Scale Graphs. Expert Systems with Applications 332 (2027): 133466.](https://www.sciencedirect.com/science/article/abs/pii/S0957417426023754) 
