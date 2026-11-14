@@ -57,7 +57,9 @@
 1. [Chunming Ma, Xujia Li, Quanqing Xu, Chuanhui Yang, Lei Chen. StreamPLAID: Efficient Incremental Indexing via Monotonic Radius Hierarchical Partitioning for Multi-Vector Retrieval. Accepted by PVLDB 2027.]
 2. [Xu Gao, Sai Wu, Xiu Tang, Chang Yao, Quanqing Xu, Chuanhui Yang, Gang Chen. DADO: a LLM-based Distribution-Aligned and Diversity-Optimized Data Generator. Accepted by TKDE 2026.](https://www.computer.org/csdl/journal/tk/5555/01/11701524/2kblZ7aXecU)
 3. [Naili Xing, Zhanhao Zhao, Peng Lu, Chuanhui Yang, Quanqing Xu, and Beng Chin Ooi. 2026. NeurQO: Query Optimization as a Learnable Function. Proc. ACM Manag. Data 4, 6 (SIGMOD), Article 363 (December 2026), 27 pages.](https://doi.org/10.1145/3856358)
-4. [Ziyi Li, Angjun Lin, Yuhao Lin, Quanqing Xu, Ruixuan Zhang, Yuanyuan Zhu, Jiawei Jiang, Xiao Yan. TITAN: A High-Throughput Distributed System for Approximate Nearest Neighbor Search on Large-scale Datasets. Accepted by SIGMOD 2027.]
+4. [Ziyi Li, Angjun Lin, Yuhao Lin, Quanqing Xu, Ruixuan Zhang, Yuanyuan Zhu, Jiawei Jiang, and Xiao Yan. 2026.
+TITAN: A High-Throughput Distributed System for Approximate Nearest Neighbor Search on Large-scale
+Datasets. Proc. ACM Manag. Data 4, 6, Article 381 (December 2026), 26 pages.](https://doi.org/10.1145/3856376)
 5. [Shaojie Qiao, Daiyuan Zhang, Quanqing Xu, Nan Han, Qiyao Luo, Chuanhui Yang, Ruobing Zhao. C3-Predictor: An Efficient Framework for Performance Prediction of Concurrent Queries. Accepted by TKDE 2026.](https://ieeexplore.ieee.org/document/11673516)
 6. [Qiang Huang, Ke Liu, Liang Deng, Xiao Yan, Chuang Hu, Quanqing Xu, Wentao Zhang, and Jiawei Jiang. Retrofitting Temporal GNN Training with Decoder-Only Transformers on Large-Scale Graphs. Expert Systems with Applications 332 (2027): 133466.](https://www.sciencedirect.com/science/article/abs/pii/S0957417426023754) 
 7. [Boyang Fang, Tiezheng Nie, Quanqing Xu, Derong Shen, Yue Kou, Ge Yu. Not All Databases Matter: Datasets Reweighting for Pre-trained Cardinality Estimators. Accepted by WISE 2026.]
